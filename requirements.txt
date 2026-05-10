@@ -1,0 +1,8 @@
+# CommitLens - Git Commit History Intelligent Analysis & Visualization Engine
+# Zero dependencies - uses only Python standard library
+
+# No external dependencies required
+# Python 3.8+ standard library modules used:
+# - argparse, json, os, re, subprocess, sys
+# - collections, dataclasses, datetime
+# - typing, pathlib
